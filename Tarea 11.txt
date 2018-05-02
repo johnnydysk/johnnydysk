@@ -1,7 +1,9 @@
-Jonathan Miguel Hernandez Flores 310242116
+﻿Jonathan Miguel Hernandez Flores 310242116
 Marco Antonio Nava Cruz 313166129
 <<<<<<< HEAD
 jorge alberto lucio santes 416019890
 =======
 Sánchez Solano Geovanni 308217935
 >>>>>>> ee673fd654286ae29ab39d1cfd0f6d96b1540efe
+
+Periodo escolar 2018-2
